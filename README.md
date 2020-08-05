@@ -25,9 +25,9 @@ En caso de no poseer una GPU usar el comando
 
 	conda install pytorch torchvision ignite cpuonly -c pytorch 
 	
-Adicionalmente, se necesita el ambiente jupyter y algunas librerías del stack científico de Python (NumPy se instalá junto a pytorch)
+Adicionalmente, se necesita el ambiente jupyter, el dashboard tensorboard y algunas librerías del stack científico de Python (NumPy se instalá junto a pytorch)
 
-	conda install ipython jupyter scikit-learn matplotlib
+	conda install tensorboard ipython jupyter scikit-learn matplotlib
 
 ## Bibliografía de la unidad
 
