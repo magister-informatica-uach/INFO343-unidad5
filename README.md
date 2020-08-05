@@ -1,6 +1,6 @@
 ## Universidad Austral de Chile
 # INFO343: Minería y Aprendizaje con Datos, 2020
-# Unidad 5: Redes Neuronales Arficiales
+# Unidad 5: Redes Neuronales Artificiales
 
 ### Responsable: Pablo Huijse H, phuijse@inf.uach.cl
 
