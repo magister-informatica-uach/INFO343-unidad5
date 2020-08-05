@@ -10,6 +10,7 @@
 
 - [Lecciones asíncronas](https://www.youtube.com/playlist?list=PLEl00Ye9KoHxhz-TrWpqStP7NUJfg0QD9)
 - [Láminas de apoyo, lecciones asíncronas](https://docs.google.com/presentation/d/1IJ2n8X4w8pvzNLmpJB-ms6-GDHWthfsJTFuyUqHfXg8/edit?usp=sharing)
+- [Repositorio de INFO257: Inteligencia Artificial](https://github.com/phuijse/INFO257)
 
 
 ## Requisitos de software
